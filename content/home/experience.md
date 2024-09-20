@@ -47,4 +47,4 @@ design:
 
 + December 29, 2023. I have successfully won the Distinguished Graduate Student Award! 🚀
 
-- November 19, 2023. We have successfully presented our first paper "An Improved Hybrid Grey Wolf Optimizer for Multi-Agent Trajectory Planning in Complex Environment" on the [China Automation Congress](https://ieeexplore.ieee.org/xpl/conhome/10450150/proceeding). 😆
+- November 20, 2023. We have successfully presented our first paper "An Improved Hybrid Grey Wolf Optimizer for Multi-Agent Trajectory Planning in Complex Environment" on the [China Automation Congress](https://ieeexplore.ieee.org/xpl/conhome/10450150/proceeding). 😆
