@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reachability | Yutong Zhu</title>
+    <link>//localhost:1313/tag/reachability/</link>
+      <atom:link href="//localhost:1313/tag/reachability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reachability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Reachability</title>
+      <link>//localhost:1313/tag/reachability/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Reachability for Hybrid Dynamics System</title>
+      <link>//localhost:1313/project/probabilistic/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/probabilistic/</guid>
+      <description>&lt;p&gt;A deterministic and stochastic hybrid dynamics system is essential for dealing with the complex behaviour and stochastic optimal control among multiple agents in a reach-avoid game. Considering the heterogeneous interactions among multiple agents of a complex system, many challenges remain in implementing such a hybrid system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

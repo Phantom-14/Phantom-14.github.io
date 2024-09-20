@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yutong Zhu</title>
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Projects</title>
+      <link>//localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Manoeuvrability Pursuit-Evasion Games for Robots</title>
+      <link>//localhost:1313/project/merl/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/merl/</guid>
+      <description>&lt;p&gt;Recently, multi-agent reinforcement learning (MARL) has made great progress in pursuit-evasion scenarios. A number of MARL methods are proposed, but they have their own disadvantages. Although these methods can improve the cooperative ability of robots, these methods do not apply to environments with a large number of robots as they require the use of all the robots’ states or observations in constructing their critic networks. As the number of robots increases, these methods will become increasingly difficult to be trained.&lt;/p&gt;
+&lt;p&gt;A whole novel method, called manoeuvrability enhanced reinforcement learning via gaussian process (MERL-GP), is proposed to deal with problems including escape strategy, local optima, and uncertainty for multi-robot high-dimensional data. MERL-GP contains manoeuvrability action, composite reward mechanism, and gaussian process. Specifically, manoeuvrability action provides more escape strategies. Composite reward mechanism overcomes the sparse reward and local optima problems. Gaussian process approximation solves the Q-function and allows an accurate online update of the parameters of the posterior mean and covariance. (Check our 
+&lt;a href=&#34;https://youtu.be/TtiwqIaVDPs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Reachability for Hybrid Dynamics System</title>
+      <link>//localhost:1313/project/probabilistic/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/probabilistic/</guid>
+      <description>&lt;p&gt;A deterministic and stochastic hybrid dynamics system is essential for dealing with the complex behaviour and stochastic optimal control among multiple agents in a reach-avoid game. Considering the heterogeneous interactions among multiple agents of a complex system, many challenges remain in implementing such a hybrid system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FlexNet for Cooperative Herding</title>
+      <link>//localhost:1313/project/flexnet/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/flexnet/</guid>
+      <description>&lt;p&gt;We propose an open formation (FlexNet) of pursuers to achieve effective capture of adversarial evaders. We expand the evader’s locomotion after equipping each pursuer with a finite FOV. Inspired by the interaction dynamics between agents during the herding process, a new segmented interaction model is developed for the evader to describe the influence of the pursuers. As shown in the figure, the pursuers with limited FOV first seek the evader and generate the desired formation. By gradually adjusting the size of the FlexNet, the pursuers finally achieve cooperative herding of the evader.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trajectory Planning with Optimization Algorithm</title>
+      <link>//localhost:1313/project/planning/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/planning/</guid>
+      <description>&lt;p&gt;In terms of optimization algorithm, we propose that LDDGWO improves GWO by combining LDD and DEWA to produce solutions with flexible positional updates and reduce the likelihood of solutions falling into local optima.&lt;/p&gt;
+&lt;p&gt;Moreover, to address the issue of local optimum and premature convergence, RSCDWOA is proposed based on the whale optimization algorithm, combining the chaotic initialization, the reverse search and the differential evolution methods. It is theoretically proved that this algorithm is globally convergent in probability. When applied to path planning problems, the proposed optimization algorithm can effectively find a globally optimal and smoother path. Through simulation experiments with multi-UAVs, it is demonstrated that the proposed algorithm has better performance than the state-of-the-art methods in environment with both static and dynamic obstacles, reflecting the global convergence and robustness of the proposed algorithm.&lt;/p&gt;
+&lt;p&gt;In terms of trajectory planning, we use an artificial potential field to construct planning scenarios, which provides a platform for the visualisation of guaranteed convergence in probability of RSCDWOA. In addition, the optimal strategy of the Stackelberg-Nash game is determined to address cooperative trajectory planning for multiple UAVs in desired formation configurations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

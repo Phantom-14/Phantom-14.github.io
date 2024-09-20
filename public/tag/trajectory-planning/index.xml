@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trajectory Planning | Yutong Zhu</title>
+    <link>//localhost:1313/tag/trajectory-planning/</link>
+      <atom:link href="//localhost:1313/tag/trajectory-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trajectory Planning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Trajectory Planning</title>
+      <link>//localhost:1313/tag/trajectory-planning/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory Planning with Optimization Algorithm</title>
+      <link>//localhost:1313/project/planning/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/planning/</guid>
+      <description>&lt;p&gt;In terms of optimization algorithm, we propose that LDDGWO improves GWO by combining LDD and DEWA to produce solutions with flexible positional updates and reduce the likelihood of solutions falling into local optima.&lt;/p&gt;
+&lt;p&gt;Moreover, to address the issue of local optimum and premature convergence, RSCDWOA is proposed based on the whale optimization algorithm, combining the chaotic initialization, the reverse search and the differential evolution methods. It is theoretically proved that this algorithm is globally convergent in probability. When applied to path planning problems, the proposed optimization algorithm can effectively find a globally optimal and smoother path. Through simulation experiments with multi-UAVs, it is demonstrated that the proposed algorithm has better performance than the state-of-the-art methods in environment with both static and dynamic obstacles, reflecting the global convergence and robustness of the proposed algorithm.&lt;/p&gt;
+&lt;p&gt;In terms of trajectory planning, we use an artificial potential field to construct planning scenarios, which provides a platform for the visualisation of guaranteed convergence in probability of RSCDWOA. In addition, the optimal strategy of the Stackelberg-Nash game is determined to address cooperative trajectory planning for multiple UAVs in desired formation configurations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
