@@ -11,19 +11,34 @@
     <loc>//localhost:1313/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/project/merl/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/project/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/pursuit-evasion-games/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/project/probabilistic/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/reachability/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication-type/1/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/authors/</loc>
+    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/project/flexnet/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication/flexnet/</loc>
@@ -38,9 +53,6 @@
     <loc>//localhost:1313/tag/source-themes/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/author/ye-zhang/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,8 +62,35 @@
     <loc>//localhost:1313/author/yutong-zhu/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/publication-type/3/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/dcfci/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/merl/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/sihao-sun/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/probabilistic/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/publication-type/2/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication/stackelberg/</loc>
+    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tag/trajectory-planning/</loc>
+    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/project/planning/</loc>
+    <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/people/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/publication/rscdwoa/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
@@ -62,6 +101,12 @@
     <loc>//localhost:1313/author/jingyu-wang/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/publication/formation/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/minghu-tan/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/publication/lddgwo/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,7 +114,7 @@
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
@@ -77,60 +122,20 @@
     <loc>//localhost:1313/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/yutong-zhu/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/talk/</loc>
   </url><url>
-    <loc>//localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/author/ye-zhang/</loc>
   </url><url>
-    <loc>//localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/author/yutong-zhu/</loc>
   </url><url>
-    <loc>//localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>//localhost:1313/author/yutong-zhu/</loc>
   </url>
 </urlset>

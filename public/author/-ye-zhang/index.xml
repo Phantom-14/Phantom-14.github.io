@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>- Ye Zhang | Yutong Zhu</title>
+    <link>//localhost:1313/author/-ye-zhang/</link>
+      <atom:link href="//localhost:1313/author/-ye-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>- Ye Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>- Ye Zhang</title>
+      <link>//localhost:1313/author/-ye-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

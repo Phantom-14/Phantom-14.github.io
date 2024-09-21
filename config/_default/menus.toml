@@ -28,6 +28,11 @@
 #  url = "courses/"
 #  weight = 50
 
+[[main]]
+  name = "People"
+  url = "people/"
+  weight = 70
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"

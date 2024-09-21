@@ -60,9 +60,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am Yutong Zhu, a M.Sc. student in the faculty of Astronautics, Northwestern Polytechnical University. I strive to analyse multi-robot systems through interdisciplinary research on game theory, autonomous decision-making, reachability, and reinforcement learning. 

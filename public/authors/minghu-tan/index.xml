@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minghu Tan | Yutong Zhu</title>
+    <link>//localhost:1313/authors/minghu-tan/</link>
+      <atom:link href="//localhost:1313/authors/minghu-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minghu Tan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Minghu Tan</title>
+      <link>//localhost:1313/authors/minghu-tan/</link>
+    </image>
+    
+    <item>
+      <title>A collision-free pursuit-evasion framework for indirect herding and formation control of non-cooperative UAVs</title>
+      <link>//localhost:1313/publication/formation/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/formation/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

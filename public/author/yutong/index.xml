@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yutong | Yutong Zhu</title>
+    <link>//localhost:1313/author/yutong/</link>
+      <atom:link href="//localhost:1313/author/yutong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yutong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>Yutong</title>
+      <link>//localhost:1313/author/yutong/</link>
+    </image>
+    
+    <item>
+      <title>Yutong Zhu</title>
+      <link>//localhost:1313/author/yutong-zhu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/yutong-zhu/</guid>
+      <description>&lt;p&gt;I am Yutong Zhu, a M.Sc. student in the faculty of Astronautics, Northwestern Polytechnical University. I strive to analyse multi-robot systems through interdisciplinary research on game theory, autonomous decision-making, reachability, and reinforcement learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

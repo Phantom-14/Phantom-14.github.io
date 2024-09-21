@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Ye Zhang](https://cs.lr.tudelft.nl/people/y-zhang/) | Yutong Zhu</title>
+    <link>//localhost:1313/author/ye-zhanghttps/cs.lr.tudelft.nl/people/y-zhang/</link>
+      <atom:link href="//localhost:1313/author/ye-zhanghttps/cs.lr.tudelft.nl/people/y-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Ye Zhang](https://cs.lr.tudelft.nl/people/y-zhang/)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>//localhost:1313/images/icon_hu10226378635250344412.png</url>
+      <title>[Ye Zhang](https://cs.lr.tudelft.nl/people/y-zhang/)</title>
+      <link>//localhost:1313/author/ye-zhanghttps/cs.lr.tudelft.nl/people/y-zhang/</link>
+    </image>
+    
+    <item>
+      <title>[Ye Zhang](https://cs.lr.tudelft.nl/people/y-zhang/)</title>
+      <link>//localhost:1313/author/ye-zhanghttps/cs.lr.tudelft.nl/people/y-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/author/ye-zhanghttps/cs.lr.tudelft.nl/people/y-zhang/</guid>
+      <description>&lt;p&gt;I am Ye Zhang, an associate professor in the faculty of Astronautics, Northwestern Polytechnical University.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

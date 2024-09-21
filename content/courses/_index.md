@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: People
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
